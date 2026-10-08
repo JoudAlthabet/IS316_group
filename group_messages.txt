@@ -1,3 +1,4 @@
 IS316 - Group
 
 Leena: GitHub helps us orgnize our work and manage our Data Science projects.
+Felwa : GitHup helps us track changes and collaborate on projects.
